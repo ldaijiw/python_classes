@@ -28,6 +28,7 @@ class Cat:
 
 
 if __name__ == "__main__":
+    # making 2 instances and then displaying info
     tom = Cat("M", colour = "brown")
 
     print(tom.name)
@@ -43,3 +44,7 @@ if __name__ == "__main__":
     print(jerry.gender)
     print(jerry.mood)
     print(jerry.meow())
+
+    # changing an attribute and reprinting
+    jerry.mood = "happy"
+    print(jerry.mood)
