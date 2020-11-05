@@ -2,10 +2,10 @@
 
 **O**bject **O**riented **P**rogramming
 4 Pillars:
-- Inheritance
-- Encapsulation
-- Abstraction
-- Polymorphism
+- Inheritance: Eliminates redundant code
+- Encapsulation: Reduce complexity and increase reusability
+- Abstraction: Reduce complexity and isolate impact of changes
+- Polymorphism: Refactor code or case statements, allows to change behaviours or attributes/variable
 
 **Class is the main factor that is used to implement any of these pillars**
 
